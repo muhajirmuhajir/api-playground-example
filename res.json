@@ -1,4 +1,5 @@
 {
     "status": "available",
-    "id": 111
+    "id": 111,
+    "meals": "breakfast"
 }
